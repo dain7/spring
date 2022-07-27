@@ -27,3 +27,4 @@ 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
 
 ## AppConfig
 - 애플리케이션의 전체 동작 방식을 구성하기 위해 <b>구현 객체</b>를 생성하고 <b>연결</b>하는 책임을 가지는 별도의 설정 클래스를 만들자!
+
