@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.singleton.SingletonTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-02T01:05:53" hostname="dainkim-B365M-D3H" time="0.011">
+  <properties/>
+  <testcase name="스프링 없는 순수한 DI 컨테이너" classname="hello.core.singleton.SingletonTest" time="0.011"/>
+  <system-out><![CDATA[memberService1 = hello.core.member.MemberServiceImpl@449a4f23
+memberService2 = hello.core.member.MemberServiceImpl@25ce9dc4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
